@@ -1,0 +1,386 @@
+.root {
+  height: 1503px;
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+}
+.unnamed {
+  width: 1000px;
+  height: 498px;
+  align-items: flex-start;
+  position: absolute;
+  left: 0;
+  top: 706px;
+  background-color: #fff;
+  overflow: hidden;
+}
+._359529111 {
+  width: 248px;
+  height: 248px;
+  position: absolute;
+  left: 694.3601px;
+  top: 78px;
+  background-image:/* webpackIgnore: true */ url('assets/_359529111.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._16106806752d5af207014fa12ff965 {
+  width: 248px;
+  height: 248px;
+  position: absolute;
+  left: 375.6801px;
+  top: 78px;
+  background-image:/* webpackIgnore: true */ url('assets/_16106806752d5af207014fa12ff965.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._160981797480f231f0633ea274ba8f {
+  width: 248px;
+  height: 248px;
+  position: absolute;
+  left: 57px;
+  top: 78px;
+  background-image:/* webpackIgnore: true */ url('assets/_160981797480f231f0633ea274ba8f.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.unnamed2 {
+  color: #2e3141;
+  font-size: 24.4726px;
+  line-height: 27.9687px;
+  font-family: Okta Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+  width: 248px;
+  height: 33px;
+  position: absolute;
+  left: 57px;
+  top: 354px;
+}
+._2999 {
+  color: #2e3141;
+  font-size: 24.4726px;
+  line-height: 27.9687px;
+  font-weight: bold;
+  font-family: Okta Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 95.0937px;
+  height: 32.8632px;
+  position: absolute;
+  left: 57px;
+  top: 396px;
+}
+.unnamed3 {
+  color: #2e3141;
+  font-size: 24.4726px;
+  line-height: 27.9687px;
+  font-family: Okta Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+  width: 248px;
+  height: 33px;
+  position: absolute;
+  left: 376px;
+  top: 354px;
+}
+._3799 {
+  color: #2e3141;
+  font-size: 24.4726px;
+  line-height: 27.9687px;
+  font-weight: bold;
+  font-family: Okta Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 95.0937px;
+  height: 32.8632px;
+  position: absolute;
+  left: 376px;
+  top: 396px;
+}
+.unnamed4 {
+  color: #2e3141;
+  font-size: 24.4726px;
+  line-height: 27.9687px;
+  font-family: Okta Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+  width: 247px;
+  height: 33px;
+  position: absolute;
+  left: 695px;
+  top: 354px;
+}
+._4399 {
+  color: #2e3141;
+  font-size: 24.4726px;
+  line-height: 27.9687px;
+  font-weight: bold;
+  font-family: Okta Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 95.0937px;
+  height: 32.8632px;
+  position: absolute;
+  left: 694px;
+  top: 396px;
+}
+.frame25 {
+  width: 1000px;
+  height: 299px;
+  align-items: flex-start;
+  position: absolute;
+  left: 0;
+  top: 1204px;
+  background-color: #9e97a6;
+  overflow: hidden;
+}
+.image3 {
+  width: 229.6844px;
+  height: 117px;
+  position: absolute;
+  left: 24px;
+  top: 25px;
+  background-image:/* webpackIgnore: true */ url('assets/image3.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.pointinghand1 {
+  width: 21.813px;
+  height: 21.813px;
+  position: absolute;
+  left: 620.0092px;
+  top: 235.0697px;
+  overflow: hidden;
+}
+.ellipse1 {
+  position: absolute;
+  left: 91.792%;
+  right: 3.2999%;
+  top: 14.7146%;
+  bottom: 71.4109%;
+  overflow: visible;
+}
+.arrowLeft1 {
+  position: absolute;
+  left: 93.1134%;
+  right: 4.6213%;
+  top: 18.45%;
+  bottom: 75.1464%;
+}
+._2022 {
+  opacity: 0.6499;
+  color: #fff;
+  font-size: 11.701px;
+  line-height: 19.5017px;
+  font-weight: 500;
+  font-family: Okta Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 53.0194%;
+  right: 25.7783%;
+  top: 65.7911%;
+  bottom: 28.6517%;
+}
+.unnamed5 {
+  opacity: 0.75;
+  color: #fff;
+  font-size: 11.8115px;
+  line-height: 19.6858px;
+  font-weight: 500;
+  font-family: Okta Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 53.0194%;
+  right: 32.9052%;
+  top: 14.7146%;
+  bottom: 37.604%;
+}
+.facebookTwitterInstagram {
+  opacity: 0.75;
+  color: #fff;
+  font-size: 11.8115px;
+  line-height: 19.6858px;
+  font-weight: 500;
+  font-family: Okta Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 74.9573%;
+  right: 10.9672%;
+  top: 14.8816%;
+  bottom: 62.68%;
+}
+.a {
+  color: #fff;
+  font-size: 16.3597px;
+  line-height: 24.5396px;
+  font-weight: 500;
+  font-family: Okta Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 27.4%;
+  right: 51.6731%;
+  top: 14.7146%;
+  bottom: 68.3278%;
+}
+.frame1 {
+  flex-direction: column;
+  position: absolute;
+  left: 274px;
+  top: 203.5223px;
+}
+._74955458766 {
+  color: #fff;
+  font-size: 14.4639px;
+  line-height: 22.729px;
+  font-weight: 500;
+  font-family: Okta Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  white-space: nowrap;
+}
+.frame2 {
+  width: 147.2409px;
+  height: 22.5764px;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  left: 274px;
+  top: 233.9515px;
+}
+.helloVyazanRu {
+  color: #fff;
+  font-size: 14.315px;
+  line-height: 22.4951px;
+  font-weight: 500;
+  font-family: Okta Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 147.2409px;
+}
+.unnamed6 {
+  width: 1000px;
+  height: 649px;
+  align-items: flex-start;
+  position: absolute;
+  left: 0;
+  top: 57px;
+  background-color: #eaf2f5;
+  overflow: hidden;
+}
+.rectangle2 {
+  width: 521.5436px;
+  height: 666px;
+  position: absolute;
+  left: 480.0795px;
+  top: -17px;
+  background-color: #fafafa;
+}
+.unnamed7 {
+  color: #2e3141;
+  font-size: 40px;
+  line-height: 45px;
+  font-family: Okta Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 346px;
+  height: 61px;
+  position: absolute;
+  left: 535px;
+  top: 98px;
+}
+._20222 {
+  color: #2e3141;
+  font-size: 22px;
+  line-height: 30px;
+  font-family: Okta Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 386px;
+  height: 344px;
+  position: absolute;
+  left: 535px;
+  top: 186px;
+}
+._2a490b5f992f19571871b27b38d45a {
+  width: 478px;
+  height: 651.8181px;
+  position: absolute;
+  left: 2px;
+  top: -2.4089px;
+  background-image:/* webpackIgnore: true */ url('assets/_2a490b5f992f19571871b27b38d45a.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.unnamed8 {
+  width: 1000px;
+  height: 67px;
+  align-items: center;
+  gap: 93px;
+  padding: 5px 9px;
+  position: absolute;
+  left: 0;
+  top: -1px;
+  background-color: #979ba6;
+}
+.image2 {
+  width: 122.6315px;
+  height: 50px;
+  background-image:/* webpackIgnore: true */ url('assets/image2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.unnamed9 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 25px;
+  font-family: Okta Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 114px;
+  height: 33px;
+}
+.unnamed10 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 25px;
+  font-family: Okta Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 105px;
+  height: 33px;
+}
+.unnamed11 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 25px;
+  font-family: Okta Neue, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 165px;
+  height: 33px;
+}
+.unnamed12 {
+  width: 83.6923px;
+  height: 34px;
+  position: relative;
+}
+.socialMediaFacebook {
+  width: 33.1282px;
+  height: 34px;
+  position: absolute;
+  left: 60.4166%;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.socialMediaInstagram {
+  width: 34px;
+  height: 34px;
+  position: absolute;
+  left: 0;
+  right: 59.3749%;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
